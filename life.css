@@ -27,6 +27,9 @@ h5 {
 .gray {
 	color:gray;
 }
+.sortable th {
+	cursor: pointer;
+}
 
 /* Tooltip container */
 .tooltip {
